@@ -1,0 +1,13 @@
+ Volume in drive C is OSDisk
+ Volume Serial Number is 4013-E1E4
+
+ Directory of C:\Users\a.c.roychowdhury\Documents\comapre
+
+09/07/2017  11:19 AM    <DIR>          .
+09/07/2017  11:19 AM    <DIR>          ..
+09/07/2017  12:07 PM               165 compare.bat
+09/07/2017  12:07 PM               523 compare1.txt
+09/07/2017  12:07 PM                 0 compare2.txt
+09/07/2017  11:37 AM               514 result.txt
+               4 File(s)          1,202 bytes
+               2 Dir(s)  461,382,266,880 bytes free
